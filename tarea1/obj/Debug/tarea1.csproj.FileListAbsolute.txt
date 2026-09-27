@@ -1,0 +1,7 @@
+C:\Users\yamil\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe.config
+C:\Users\yamil\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\yamil\source\repos\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\yamil\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.AssemblyReference.cache
+C:\Users\yamil\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\yamil\source\repos\tarea1\tarea1\obj\Debug\tarea1.pdb
